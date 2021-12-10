@@ -29,5 +29,11 @@ public class EmpInfo {
 		System.out.println("Emp gender: "+ gen);
 		System.out.println("Emp salary: "+ sal);
 	}
+	
+	private void jebin() {
+		
+      System.out.println("jebi moses ");
+	}
+	
 
 }
